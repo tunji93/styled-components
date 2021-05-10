@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import {container} from '../global'
+import {Container} from '../global'
 import {Link} from 'react-router-dom'
 import {FaMagento} from 'react-icons/fa'
 
@@ -15,7 +15,7 @@ z-index: 456
 `
 ;
 
-export const NavbarContainer = styled(container)`
+export const NavbarContainer = styled(Container)`
 display:flex;
 justify-content: space-between;
 height: 80px;
