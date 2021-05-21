@@ -1,13 +1,12 @@
 import React from 'react'
 import Info from '../../Components/Info/Info'
-import {obj1,obj2,obj3,obj4} from './Data'
+import {obj1,obj2} from './Data'
 const HomePage = () => {
     return (
         <>
-         <Info obj={obj1}/>
+         <Info obj={obj1} />
          <Info obj={obj2}/>
-         <Info obj={obj3}/>
-         <Info obj={obj4}/>
+         
         </>
     )
 }

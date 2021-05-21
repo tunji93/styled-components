@@ -9,60 +9,28 @@ export const obj1 = {
     buttonLabel: "get started",
     description: "We help business owners increase thier revenue. Our team of unique specialists can help you acheive youe business goals.",
 
-    headline: "lead Generation Specialists for online Business",
+    headLine: "lead Generation Specialists for online Business",
     lightText: true,
     topLine: "Marketing Agency",
-    img: 'https://lh3.googleusercontent.com/GOegk35EjU9XujVBQvHT4pEb6QdwMCypYFs3SLDqmE1vhebyjIYNdHchX3g0QP3mLUCj=s170',
-    start: "",
+    img: "../../images/undraw_financial_data_es63.svg",
+    start: false,
     alt:"image"
 }
 
 export const obj2 = {
-    lightBg: false,
-    primary: true,
-    imageStart: '',
-    lightTopLine: true,
-    lightTextDesc: true,
+    lightBg: true,
+    primary: false,
+    imageStart: 'start',
+    lightTopLine: false,
+    lightTextDesc: false,
     buttonLabel: "get started",
     description: "We help business owners increase thier revenue. Our team of unique specialists can help you acheive youe business goals.",
 
-    headline: "lead Generation Specialists for online Business",
-    lightText: true,
+    headLine: "lead Generation Specialists for online Business",
+    lightText: false,
     topLine: "Marketing Agency",
-    img: 'https://lh3.googleusercontent.com/GOegk35EjU9XujVBQvHT4pEb6QdwMCypYFs3SLDqmE1vhebyjIYNdHchX3g0QP3mLUCj=s170',
-    start: "",
+    img: "../../images/undraw_financial_data_es63.svg",
+    start: "true",
     alt:"image"
 }
 
-export const obj3 = {
-    lightBg: false,
-    primary: true,
-    imageStart: '',
-    lightTopLine: true,
-    lightTextDesc: true,
-    buttonLabel: "get started",
-    description: "We help business owners increase thier revenue. Our team of unique specialists can help you acheive youe business goals.",
-
-    headline: "lead Generation Specialists for online Business",
-    lightText: true,
-    topLine: "Marketing Agency",
-    img: 'https://lh3.googleusercontent.com/GOegk35EjU9XujVBQvHT4pEb6QdwMCypYFs3SLDqmE1vhebyjIYNdHchX3g0QP3mLUCj=s170',
-    start: "",
-    alt:"image"
-}
-export const obj4 = {
-    lightBg: false,
-    primary: true,
-    imageStart: '',
-    lightTopLine: true,
-    lightTextDesc: true,
-    buttonLabel: "get started",
-    description: "We help business owners increase thier revenue. Our team of unique specialists can help you acheive youe business goals.",
-
-    headline: "lead Generation Specialists for online Business",
-    lightText: true,
-    topLine: "Marketing Agency",
-    img: 'https://lh3.googleusercontent.com/GOegk35EjU9XujVBQvHT4pEb6QdwMCypYFs3SLDqmE1vhebyjIYNdHchX3g0QP3mLUCj=s170',
-    start: "",
-    alt:"image"
-}

@@ -24,7 +24,7 @@ const Info = (props) => {
                        </InfoColumn>
                        <InfoColumn>
                            <ImgWrapper start={props.obj.start}>
-                               <Img src={props.obj.img}alt={props.obj.alt} />
+                               <Img src={`${props.obj.img}`} alt={props.obj.alt} />
                            </ImgWrapper>
                        </InfoColumn>
                    </InfoRow>
